@@ -1,3 +1,8 @@
+# Bharatinten Internship Details Repository
+
+This repository acts as a centralized hub for documenting my internship journey at Bharatinten. It provides comprehensive details about the internship program, including key experiences and learning outcomes. Additionally, it contains documentation for all two mini-projects that I completed during my tenure. Each mini-project is extensively documented, showcasing the skills I developed, the technologies employed, and the results achieved. This repository not only serves as a testament to my contributions during the internship but also demonstrates my ability to excel in a professional setting while delivering impactful projects.
+
+
 # HTML, CSS, JS (Auto Refresh)
 
 This template is a starter for building a website with HTML, CSS and JS, powered by [Vite](https://vitejs.dev/). HTML provides the basic structure, CSS controls formatting, and JavaScript controls the behavior of different elements.
